@@ -1,8 +1,8 @@
 droidicon
 =========
+800+ icons for Android. 25 social badges and more!
 based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 
-800+ icons for Android. 25 social badges and more!
 ###800+ icons
 ###use icons from [FontAwesome](http://fontawesome.io/), [Iconic](https://useiconic.com/open/), and [Entypo] (http://www.entypo.com/)
 ###25 premade social badges
