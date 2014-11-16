@@ -1,6 +1,6 @@
 droidicon
 =========
-800+ icons for Android. 25 social badges and more!
+800+ icons for Android. 25 premade social badges and more! droidicon makes it super easy to add icons and badges to your app. All the social badge stylying is already done by droidicon. Just add them to your app!
 based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 
 * 800+ icons
