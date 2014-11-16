@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DroidiconBadge">
+        <attr name="db_bg_color" format="color" />
+        <attr name="db_icon_color" format="color" />
+        <attr name="db_icon" format="string" />
+        <attr name="db_size" format="dimension" />
+        <attr name="db_icon_padding" format="dimension" />
+        <attr name="db_contour_color" format="color" />
+        <attr name="db_draw_contour" format="boolean" />
+        <attr name="db_contour_width" format="integer" />
+        <attr name="db_alpha" format="integer" />
+
+    </declare-styleable>
+</resources>
+

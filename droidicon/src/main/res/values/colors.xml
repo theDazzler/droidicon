@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+
+
+    <color name="twitter_blue">#55ACEE</color>
+    <color name="twitter_bg">#292f33</color>
+    <color name="facebook">#3B5998</color>
+    <color name="spotify">#81b71a</color>
+    <color name="vimeo">#1ab7ea</color>
+    <color name="googleplus">#dd4b39</color>
+    <color name="pinterest">#C92228</color>
+    <color name="tumblr">#35465c</color>
+    <color name="linkedin">#007bb6</color>
+    <color name="dribble">#ea4c89</color>
+    <color name="stumbleupon">#eb4924</color>
+    <color name="lastfm">#c3000d</color>
+    <color name="rdio">#007dc3</color>
+    <color name="skype">#00aff0</color>
+    <color name="github">#000</color>
+    <color name="instagram">#3f729b</color>
+    <color name="dropbox">#007ee5</color>
+    <color name="evernote">#7ac142</color>
+    <color name="paypal">#253b80</color>
+    <color name="soundcloud">#f80</color>
+    <color name="behance">#1769ff</color>
+    <color name="android">#a4c639</color>
+    <color name="foursquare">#0072b1</color>
+    <color name="trello">#256a92</color>
+    <color name="youtube">#cd201f</color>
+    <color name="stackoverflow">#fe7a15</color>
+
+    <color name="carrot">#e67e22</color>
+    <color name="pumpkin">#d35400</color>
+    <color name="amethyst">#9b59b6</color>
+    <color name="sunflower">#f1c40f</color>
+</resources>

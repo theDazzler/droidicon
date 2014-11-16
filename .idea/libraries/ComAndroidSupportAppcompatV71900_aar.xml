@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ComAndroidSupportAppcompatV71900.aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/droidicon/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res" />
+      <root url="jar://$PROJECT_DIR$/droidicon/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
