@@ -9,7 +9,7 @@ Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 * use icons from [FontAwesome](http://fontawesome.io/), [Iconic](https://useiconic.com/open/), and [Entypo] (http://www.entypo.com/)
 * 25 premade social badges
 * add strokes, transparency, and ColorFilters to icons
-* create badges and icons of any size, totally customizable
+* create badges and icons of any size or color, totally customizable
 
 ![alt text](https://github.com/theDazzler/droidicon/blob/master/screenshots/screen1_framed.png)
 ![alt text](https://github.com/theDazzler/droidicon/blob/master/screenshots/screen2_framed.png)
