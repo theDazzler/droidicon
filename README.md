@@ -15,4 +15,5 @@ Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 ![alt text](https://github.com/theDazzler/droidicon/blob/master/screenshots/screen1_framed.png)
 <h2>Add strokes, transparency, and ColorFilters to your icons</h2>
 ![alt text](https://github.com/theDazzler/droidicon/blob/master/screenshots/screen2_framed.png)
+<h2>Use icons with or without a background</h2>
 ![alt text](https://github.com/theDazzler/droidicon/blob/master/screenshots/screen3_framed.png)
