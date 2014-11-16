@@ -6,3 +6,5 @@ droidicon
 ###use icons from [FontAwesome](http://fontawesome.io/), [Iconic](https://useiconic.com/open/), and [Entypo] (http://www.entypo.com/)
 ###25 premade social badges
 ![alt text](https://github.com/theDazzler/droidicon/blob/master/screenshots/screen1_framed.png)
+![alt text](https://github.com/theDazzler/droidicon/blob/master/screenshots/screen2_framed.png)
+![alt text](https://github.com/theDazzler/droidicon/blob/master/screenshots/screen3_framed.png)
