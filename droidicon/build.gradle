@@ -2,6 +2,7 @@ apply plugin: 'android-library'
 
 
 
+
 android {
     compileSdkVersion 21
     buildToolsVersion '19.1.0'
@@ -28,3 +29,5 @@ android {
 dependencies {
     compile 'com.android.support:appcompat-v7:+'
 }
+
+apply from: 'https://raw.github.com/chrisbanes/gradle-mvn-push/master/gradle-mvn-push.gradle'
