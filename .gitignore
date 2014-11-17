@@ -35,6 +35,8 @@ gradle.properties
 *.gradle
 *.iml
 
+gradle/
+
 gradlew
 gradlew.bat
 
