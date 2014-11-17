@@ -385,9 +385,11 @@ public class Droidicon
         iconMap.put("fa-wheelchair", 0xf193);
         iconMap.put("fa-vimeo-square", 0xf194);
         iconMap.put("fa-space-shuttle", 0xf197);
+        iconMap.put("fa-graduation-cap", 0xf19d);
         iconMap.put("fa-child",0xf1ae);
         iconMap.put("fa-bomb", 0xf1e2);
         iconMap.put("fa-soccer-ball-o", 0xf1e3);
+
 
 
         //Entypo
