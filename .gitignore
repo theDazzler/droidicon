@@ -32,8 +32,8 @@ gradle.properties
 # Android Studio
 .idea/
 #.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
-.gradle
-.iml
+*.gradle
+*.iml
 
 gradlew
 gradlew.bat
