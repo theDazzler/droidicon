@@ -1,6 +1,10 @@
 droidicon
 =========
+
 800+ icons from [FontAwesome](http://fontawesome.io/), [Iconic](https://useiconic.com/open/), and [Entypo] (http://www.entypo.com/) for Android. 25 ready-made social badges and more! droidicon makes it super easy to add icons and badges to your app. All of the social badges are already styled. Just add them to your app! Or you can customize the icons however you want.
+<br>
+<br>
+[ ![Download](https://api.bintray.com/packages/thedazzler/maven/com.thedazzler.droidicon/images/download.svg) ](https://bintray.com/thedazzler/maven/com.thedazzler.droidicon/_latestVersion)
 <br>
 <br>
 Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
