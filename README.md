@@ -63,7 +63,13 @@ Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 
 
 <h2>Add strokes, transparency, and ColorFilters to your icons</h2>
+<div style="clear:both">
+<div style="float:left">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen2_framed.jpg" align="left" width="285" >
+</div>
+<div style="float:left">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen3_framed.jpg" align="left" width="285" >
+</div>
+</div>
 
 ##[Installation Guide](https://github.com/theDazzler/droidicon/wiki/How-to-Use)
