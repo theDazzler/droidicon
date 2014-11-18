@@ -7,7 +7,7 @@ Icons From...
 * [Entypo](http://www.entypo.com/) 
 * [Google Material Design](http://google.github.io/material-design-icons/) 
 
-<strong>droidicon</strong> provides over 1500 customizable icons, 25 ready-made social badges and more! droidicon makes it super easy to add icons and badges to your app. All of the social badges are already styled. Just add them to your app! Or you can customize the icons however you want.
+<strong>droidicon</strong> provides over 1600 customizable icons, 25 ready-made social badges and more! droidicon makes it super easy to add icons and badges to your app. All of the social badges are already styled. Just add them to your app! Or you can customize the icons however you want.
 <br>
 <br>
 Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
