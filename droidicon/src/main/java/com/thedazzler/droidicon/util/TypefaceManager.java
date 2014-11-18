@@ -29,7 +29,8 @@ public class TypefaceManager {
         ENTYPO(R.raw.entypo),
         ENTYPO_SOCIAL(R.raw.entypo_social),
         FONT_AWESOME(R.raw.fontawesome_webfont),
-        ICONIC(R.raw.iconic);
+        ICONIC(R.raw.iconic),
+        GOOGLE_MATERIAL_DESIGN(R.raw.google_material_design);
 
         private final int mTypefaceResourceId;
         private Typeface mTypeface;

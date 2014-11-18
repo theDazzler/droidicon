@@ -788,7 +788,7 @@
                     android:layout_height="wrap_content"
                     droidicon:db_bg_color="#9b59b6"
                     droidicon:db_icon_color="#fff"
-                    droidicon:db_icon="iconic-volume-off"
+                    droidicon:db_icon="gmd-phone-bluetooth-speaker"
                     />
 
             </LinearLayout>
