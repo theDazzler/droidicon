@@ -14,8 +14,8 @@ Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 
 * 800+ icons
 * use icons from [FontAwesome](http://fontawesome.io/), [Iconic](https://useiconic.com/open/), and [Entypo] (http://www.entypo.com/)
-* 25 ready-made social badges
-* add strokes, transparency, and ColorFilters to icons
+* 25 ready-made social badges using brand colors
+* add strokes, transparency, and color filters to icons
 * create badges and icons of any size or color, totally customizable
 
 <h2>Ready-made Badges</h2>
@@ -54,7 +54,7 @@ Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 </div>
 
 <div style="float:left; clear:both">
-<h2>Add strokes, transparency, and ColorFilters to your icons</h2>
+<h2>Add strokes, transparency, and color filters to your icons</h2>
 </div>
 <div style="float:left; clear:both">
 <div style="float:left">
