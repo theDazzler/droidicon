@@ -74,5 +74,5 @@ Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 </div>
 
 <div style="float:left">
-  <h2>[Installation Guide](https://github.com/theDazzler/droidicon/wiki/How-to-Use)</h2>
+  <h2><a href="https://github.com/theDazzler/droidicon/wiki/How-to-Use">Installation Guide</a></h2>
 </div>
