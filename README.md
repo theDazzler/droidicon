@@ -6,6 +6,7 @@ Icons From...
 * [FontAwesome](http://fontawesome.io/icons/)
 * [Iconic](https://useiconic.com/open/)
 * [Entypo](http://www.entypo.com/) 
+* [Meteocons](http://www.alessioatzeni.com/meteocons/)
  
 <strong>droidicon</strong> provides over 1600 customizable icons, 25 ready-made social badges and more! droidicon makes it super easy to add icons and badges to your app. All of the social badges are already styled. Just add them to your app! Or you can customize the icons however you want.
 <br>
@@ -13,7 +14,7 @@ Icons From...
 Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 
 * 800+ icons
-* use icons from [FontAwesome](http://fontawesome.io/), [Iconic](https://useiconic.com/open/), and [Entypo] (http://www.entypo.com/)
+* use icons from [FontAwesome](http://fontawesome.io/), [Iconic](https://useiconic.com/open/), [Entypo] (http://www.entypo.com/), and [Meteocons](http://www.alessioatzeni.com/meteocons/)
 * 25 ready-made social badges using brand colors
 * add strokes, transparency, and color filters to icons
 * create badges and icons of any size or color, totally customizable
