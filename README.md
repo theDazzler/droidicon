@@ -19,7 +19,7 @@ Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 * create badges and icons of any size or color, totally customizable
 
 <h2>Ready-made Badges</h2>
-![alt text](https://github.com/theDazzler/droidicon/blob/master/screenshots/screen1_framed.jpg)
+<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen1_framed.jpg" width="500" align="center" >
 
 <h2>Icon Examples</h2>
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen4_framed.jpg" align="left" width="210" >
