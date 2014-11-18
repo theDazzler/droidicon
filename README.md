@@ -26,6 +26,7 @@ Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 
 
 <h2>Icon Examples</h2>
+<div style="clear:both">
 <div style="float: left">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen4_framed.jpg" align="left" width="285" >
 </div>
@@ -36,7 +37,9 @@ Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 <div style="float: left">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen6_framed.jpg" align="left" width="285" >
 </div>
+</div>
 
+<div style="clear:both">
 <div style="float: left">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen7_framed.jpg" align="left" width="285" >
 </div>
@@ -48,7 +51,7 @@ Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 <div style="float: left">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/icons_plain2.jpg" align="left" width="285" >
 </div>
-
+</div>
 
 
 
