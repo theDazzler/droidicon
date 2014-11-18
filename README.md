@@ -1,4 +1,4 @@
-droidicon - Over 1500 icons for Android!
+droidicon - Over 1600 icons for Android!
 =========
 <h3>NEW - 750+ Google Material Design Icons</h3>
 Icons From...
