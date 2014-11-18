@@ -19,10 +19,10 @@ Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 * create badges and icons of any size or color, totally customizable
 
 <h2>Ready-made Badges</h2>
-![alt text](https://github.com/theDazzler/droidicon/blob/master/screenshots/screen1_framed.png)
+![alt text](https://github.com/theDazzler/droidicon/blob/master/screenshots/screen1_framed.jpg)
 <h2>Add strokes, transparency, and ColorFilters to your icons</h2>
-![alt text](https://github.com/theDazzler/droidicon/blob/master/screenshots/screen2_framed.png)
+![alt text](https://github.com/theDazzler/droidicon/blob/master/screenshots/screen2_framed.jpg)
 <h2>Use icons with or without a background</h2>
-![alt text](https://github.com/theDazzler/droidicon/blob/master/screenshots/screen3_framed.png)
+![alt text](https://github.com/theDazzler/droidicon/blob/master/screenshots/screen3_framed.jpg)
 
 ##[Installation Guide](https://github.com/theDazzler/droidicon/wiki/How-to-Use)
