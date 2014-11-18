@@ -27,6 +27,10 @@ Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen6_framed.jpg" align="left" width="200" >
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen7_framed.jpg" align="left" width="200" >
 
+
+
+
+
 <br>
 <br>
 <h2>Add strokes, transparency, and ColorFilters to your icons</h2>
