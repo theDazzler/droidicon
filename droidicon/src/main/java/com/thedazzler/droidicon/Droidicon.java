@@ -1638,7 +1638,54 @@ public class Droidicon
         iconMap.put("gmd-star-half", 0xe8f3 );
         iconMap.put("gmd-star-outline", 0xe8f4 );
 
-
+        //meteocons
+        iconMap.put("meteo-sunrise", 0xe600 );
+        iconMap.put("meteo-sun", 0xe601 );
+        iconMap.put("meteo-moon", 0xe602 );
+        iconMap.put("meteo-sun2", 0xe603 );
+        iconMap.put("meteo-windy", 0xe604 );
+        iconMap.put("meteo-wind", 0xe605 );
+        iconMap.put("meteo-snowflake", 0xe606 );
+        iconMap.put("meteo-cloudy", 0xe607 );
+        iconMap.put("meteo-cloud", 0xe608 );
+        iconMap.put("meteo-weather", 0xe609 );
+        iconMap.put("meteo-weather2", 0xe60a );
+        iconMap.put("meteo-weather3", 0xe60b );
+        iconMap.put("meteo-lines", 0xe60c );
+        iconMap.put("meteo-cloud2", 0xe60d );
+        iconMap.put("meteo-lightning", 0xe60e );
+        iconMap.put("meteo-lightning2", 0xe60f );
+        iconMap.put("meteo-rainy", 0xe610 );
+        iconMap.put("meteo-rainy2", 0xe611 );
+        iconMap.put("meteo-windy2", 0xe612 );
+        iconMap.put("meteo-windy3", 0xe613 );
+        iconMap.put("meteo-snowy", 0xe614 );
+        iconMap.put("meteo-snowy2", 0xe615 );
+        iconMap.put("meteo-snowy3", 0xe616 );
+        iconMap.put("meteo-weather4", 0xe617 );
+        iconMap.put("meteo-cloudy2", 0xe618 );
+        iconMap.put("meteo-cloud3", 0xe619 );
+        iconMap.put("meteo-lightning3", 0xe61a );
+        iconMap.put("meteo-sun3", 0xe61b );
+        iconMap.put("meteo-moon2", 0xe61c );
+        iconMap.put("meteo-cloudy3", 0xe61d );
+        iconMap.put("meteo-cloud4", 0xe61e );
+        iconMap.put("meteo-cloud5", 0xe61f );
+        iconMap.put("meteo-lightning4", 0xe620 );
+        iconMap.put("meteo-rainy3", 0xe621 );
+        iconMap.put("meteo-rainy4", 0xe622 );
+        iconMap.put("meteo-windy4", 0xe623 );
+        iconMap.put("meteo-windy5", 0xe624 );
+        iconMap.put("meteo-snowy4", 0xe625 );
+        iconMap.put("meteo-snowy5", 0xe626 );
+        iconMap.put("meteo-weather5", 0xe627 );
+        iconMap.put("meteo-cloudy4", 0xe628 );
+        iconMap.put("meteo-lightning5", 0xe629 );
+        iconMap.put("meteo-thermometer", 0xe62a );
+        iconMap.put("meteo-compass", 0xe62b );
+        iconMap.put("meteo-none", 0xe62c );
+        iconMap.put("meteo-Celsius", 0xe62d );
+        iconMap.put("meteo-Fahrenheit", 0xe62e );
 
 
     }
@@ -1661,6 +1708,8 @@ public class Droidicon
             return TypefaceManager.IconicTypeface.ICONIC;
         else if(icon.startsWith("gmd"))
             return TypefaceManager.IconicTypeface.GOOGLE_MATERIAL_DESIGN;
+        else if(icon.startsWith("meteo"))
+            return TypefaceManager.IconicTypeface.METEOCON;
         else return null;
     }
 

@@ -30,7 +30,8 @@ public class TypefaceManager {
         ENTYPO_SOCIAL(R.raw.entypo_social),
         FONT_AWESOME(R.raw.fontawesome_webfont),
         ICONIC(R.raw.iconic),
-        GOOGLE_MATERIAL_DESIGN(R.raw.google_material_design);
+        GOOGLE_MATERIAL_DESIGN(R.raw.google_material_design),
+        METEOCON(R.raw.meteocons);
 
         private final int mTypefaceResourceId;
         private Typeface mTypeface;

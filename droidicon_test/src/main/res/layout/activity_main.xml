@@ -737,7 +737,7 @@
                     android:layout_height="wrap_content"
                     droidicon:db_bg_color="#9b59b6"
                     droidicon:db_icon_color="#fff"
-                    droidicon:db_icon="esocial-instagram"
+                    droidicon:db_icon="meteo-snowy4"
                     />
 
             </LinearLayout>
