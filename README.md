@@ -1,6 +1,6 @@
 droidicon
 =========
-###Over 1500 icons for Android!
+###Over 1500 icons for Android including the new 757 Google Material Design Icons
 Icons From...
 * [FontAwesome](http://fontawesome.io/icons/)
 * [Iconic](https://useiconic.com/open/)
