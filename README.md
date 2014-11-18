@@ -53,14 +53,6 @@ Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 </div>
 </div>
 
-
-
-
-<br>
-<br>
-<br>
-
-
 <div style="float:left; clear:both">
 <h2>Add strokes, transparency, and ColorFilters to your icons</h2>
 </div>
