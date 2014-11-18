@@ -58,10 +58,10 @@ Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 </div>
 <div style="float:left; clear:both">
 <div style="float:left">
-<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen2_framed.jpg" align="left" width="265" >
+<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen2_framed.jpg" align="left" width="50%" >
 </div>
 <div style="float:left">
-<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen3_framed.jpg" align="left" width="265" >
+<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen3_framed.jpg" align="left" width="50%" >
 </div>
 </div>
 
