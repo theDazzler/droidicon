@@ -28,28 +28,28 @@ Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 <h2>Icon Examples</h2>
 <div style="float:left; clear:both">
 <div style="float: left">
-<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen4_framed.jpg" align="left" width="285" >
+<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen4_framed.jpg" align="left" width="265" >
 </div>
 <div style="float: left">
-<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen5_framed.jpg" align="left" width="285" >
+<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen5_framed.jpg" align="left" width="265" >
 </div>
 
 <div style="float: left">
-<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen6_framed.jpg" align="left" width="285" >
+<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen6_framed.jpg" align="left" width="265" >
 </div>
 </div>
 
 <div style="float:left; clear:both">
 <div style="float: left">
-<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen7_framed.jpg" align="left" width="285" >
+<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen7_framed.jpg" align="left" width="265" >
 </div>
 
 <div style="float: left">
-<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/icons_plain1.jpg" align="left" width="285" >
+<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/icons_plain1.jpg" align="left" width="265" >
 </div>
 
 <div style="float: left">
-<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/icons_plain2.jpg" align="left" width="285" >
+<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/icons_plain2.jpg" align="left" width="265" >
 </div>
 </div>
 
@@ -61,17 +61,18 @@ Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 <br>
 
 
-
+<div style="float:left; clear:both">
 <h2>Add strokes, transparency, and ColorFilters to your icons</h2>
+</div>
 <div style="float:left; clear:both">
 <div style="float:left">
-<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen2_framed.jpg" align="left" width="285" >
+<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen2_framed.jpg" align="left" width="265" >
 </div>
 <div style="float:left">
-<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen3_framed.jpg" align="left" width="285" >
+<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen3_framed.jpg" align="left" width="265" >
 </div>
 </div>
 
-<div style="float:left; clear:both">
-##[Installation Guide](https://github.com/theDazzler/droidicon/wiki/How-to-Use)
+<div style="float:left">
+  ##[Installation Guide](https://github.com/theDazzler/droidicon/wiki/How-to-Use)
 </div>
