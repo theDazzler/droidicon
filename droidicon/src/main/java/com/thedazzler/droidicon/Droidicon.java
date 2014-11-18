@@ -384,11 +384,57 @@ public class Droidicon
         iconMap.put("fa-dot-circle-o", 0xf192);
         iconMap.put("fa-wheelchair", 0xf193);
         iconMap.put("fa-vimeo-square", 0xf194);
+
         iconMap.put("fa-space-shuttle", 0xf197);
         iconMap.put("fa-graduation-cap", 0xf19d);
         iconMap.put("fa-child",0xf1ae);
         iconMap.put("fa-bomb", 0xf1e2);
         iconMap.put("fa-soccer-ball-o", 0xf1e3);
+        iconMap.put("fa-angelist", 0xf209);
+        iconMap.put("fa-area-chart", 0xf1fe);
+        iconMap.put("fa-at", 0xf1fa);
+        iconMap.put("fa-bell-slash", 0xf1f6);
+        iconMap.put("fa-bell-slash-o", 0xf0a2);
+        iconMap.put("fa-bicycle", 0xf206);
+        iconMap.put("fa-binoculars", 0xf1e5);
+        iconMap.put("fa-birthday-cake", 0xf1fd);
+        iconMap.put("fa-bus", 0xf207);
+        iconMap.put("fa-calculator", 0xf1ec);
+        iconMap.put("fa-cc", 0xf20a);
+        iconMap.put("fa-cc-amex", 0xf1f3);
+        iconMap.put("fa-cc-discover", 0xf1f2);
+        iconMap.put("fa-cc-mastercard", 0xf1f1);
+        iconMap.put("fa-cc-paypal", 0xf1f4);
+        iconMap.put("fa-cc-stripe", 0xf1f5);
+        iconMap.put("fa-cc-visa", 0xf1f0);
+        iconMap.put("fa-copyright", 0xf1f9);
+        iconMap.put("fa-eyedropper", 0xf1fb);
+        iconMap.put("fa-futbol-o", 0xf1e3);
+        iconMap.put("fa-google-wallet", 0xf1ee);
+        iconMap.put("fa-ils", 0xf20b);
+        iconMap.put("fa-ioxhost", 0xf208);
+        iconMap.put("fa-lastfm", 0xf202);
+        iconMap.put("fa-lastfm-square", 0xf203);
+        iconMap.put("fa-line-chart", 0xf201);
+        iconMap.put("fa-meanpath", 0xf20c);
+        iconMap.put("fa-newspaper-o", 0xf1ea);
+        iconMap.put("fa-paint-brush", 0xf1fc);
+        iconMap.put("fa-paypal", 0xf1ed);
+        iconMap.put("fa-pie-chart", 0xf200);
+        iconMap.put("fa-plug", 0xf1e6);
+        iconMap.put("fa-shekel", 0xf20b);
+        iconMap.put("fa-sheqel", 0xf20b);
+        iconMap.put("fa-slideshare", 0xf1e7);
+        iconMap.put("fa-toggle-off", 0xf204);
+        iconMap.put("fa-toggle-on", 0xf205);
+        iconMap.put("fa-trash", 0xf1f8);
+        iconMap.put("fa-tty", 0xf1e4);
+        iconMap.put("fa-twitch", 0xf1e8);
+        iconMap.put("fa-wifi", 0xf1eb);
+        iconMap.put("fa-yelp", 0xf1e9);
+
+
+
 
 
 

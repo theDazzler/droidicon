@@ -3,6 +3,7 @@ package com.thedazzler.droidicon.test;
 import android.graphics.Color;
 import android.graphics.PorterDuff;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 
 import com.thedazzler.droidicon.IconicFontDrawable;
@@ -19,7 +20,6 @@ public class MainActivity extends Activity
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-
         setContentView(R.layout.activity_main);
 
         mIconView = findViewById(R.id.contour_icon);
@@ -31,7 +31,7 @@ public class MainActivity extends Activity
 
 
         IconicFontDrawable iconicFontDrawable = new IconicFontDrawable(this.getApplicationContext());
-        iconicFontDrawable.setIcon("fa-thumbs-up");
+        iconicFontDrawable.setIcon("fa-twitch");
         iconicFontDrawable.setIconColor(getResources().getColor(R.color.twitter_bg));
         iconicFontDrawable.setContourColor(getResources().getColor(R.color.twitter_blue));
         iconicFontDrawable.setContourWidth(5);

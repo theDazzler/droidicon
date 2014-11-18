@@ -18,6 +18,7 @@ package com.thedazzler.droidicon;
 import android.content.Context;
 import android.graphics.*;
 import android.graphics.drawable.Drawable;
+import android.util.Log;
 
 /**
  * A custom {@link Drawable} which can display icons from icon fonts.
