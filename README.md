@@ -24,12 +24,12 @@ Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 
 
 <h2>Icon Examples</h2>
-<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen4_framed.jpg" align="left" width="265" >
-<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen5_framed.jpg" align="left" width="265" >
-<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen6_framed.jpg" align="left" width="265" >
-<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen7_framed.jpg" align="left" width="265" >
-<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/icons_plain1.jpg" align="left" width="265" >
-<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/icons_plain2.jpg" align="left" width="265" >
+<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen4_framed.jpg" align="left" width="285" >
+<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen5_framed.jpg" align="left" width="285" >
+<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen6_framed.jpg" align="left" width="285" >
+<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen7_framed.jpg" align="left" width="285" >
+<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/icons_plain1.jpg" align="left" width="285" >
+<img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/icons_plain2.jpg" align="left" width="285" >
 
 
 
