@@ -19,17 +19,35 @@ Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 * create badges and icons of any size or color, totally customizable
 
 <h2>Ready-made Badges</h2>
+<div style="float: left">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen1_framed.jpg" width="500" align="center" >
+</div>
 
 
 
 <h2>Icon Examples</h2>
+<div style="float: left">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen4_framed.jpg" align="left" width="285" >
+</div>
+<div style="float: left">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen5_framed.jpg" align="left" width="285" >
+</div>
+
+<div style="float: left">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen6_framed.jpg" align="left" width="285" >
+</div>
+
+<div style="float: left">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen7_framed.jpg" align="left" width="285" >
+</div>
+
+<div style="float: left">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/icons_plain1.jpg" align="left" width="285" >
+</div>
+
+<div style="float: left">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/icons_plain2.jpg" align="left" width="285" >
+</div>
 
 
 
