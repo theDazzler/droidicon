@@ -1,7 +1,13 @@
 droidicon
 =========
+###Over 1500 icons for Android!
+Icons From...
+* [FontAwesome](http://fontawesome.io/icons/)
+* [Iconic](https://useiconic.com/open/)
+* [Entypo](http://www.entypo.com/) 
+* [Google Material Design](http://google.github.io/material-design-icons/) 
 
-800+ icons from [FontAwesome](http://fontawesome.io/), [Iconic](https://useiconic.com/open/), and [Entypo] (http://www.entypo.com/) for Android. 25 ready-made social badges and more! droidicon makes it super easy to add icons and badges to your app. All of the social badges are already styled. Just add them to your app! Or you can customize the icons however you want.
+*droidicon* provides over 1500 customizable icons, 25 ready-made social badges and more! droidicon makes it super easy to add icons and badges to your app. All of the social badges are already styled. Just add them to your app! Or you can customize the icons however you want.
 <br>
 <br>
 Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
