@@ -69,3 +69,5 @@ Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 <div style="float:left">
   <h2><a href="https://github.com/theDazzler/droidicon/wiki/How-to-Use">Installation Guide</a></h2>
 </div>
+
+[MIT License](http://opensource.org/licenses/MIT)
