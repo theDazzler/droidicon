@@ -25,7 +25,7 @@ import static android.os.Build.VERSION_CODES.JELLY_BEAN;
 public abstract class NoCirclePremadeDroidiconBadge extends FrameLayout
 {
     private static final float DEFAULT_ICON_SIZE = Utils.convertDpToPixel(80.0f);
-    private static final double PADDING_PERCENTAGE = .975;
+    private static final double PADDING_PERCENTAGE = .945;
 
     View view_icon;
     IconicFontDrawable iconicFontDrawable;
@@ -88,7 +88,8 @@ public abstract class NoCirclePremadeDroidiconBadge extends FrameLayout
         {
 
             icon_size = a.getDimension(R.styleable.DroidiconBadge_db_size, DEFAULT_ICON_SIZE);
-
+            icon_size = Utils.convertPixelsToDp((int) icon_size, context);
+            icon_padding = a.getDimension(R.styleable.DroidiconBadge_db_icon_padding, (int)(icon_size * PADDING_PERCENTAGE));
 
 
             //icon_padding = Utils.convertPixelsToDp((int)icon_padding, context);
@@ -108,9 +109,8 @@ public abstract class NoCirclePremadeDroidiconBadge extends FrameLayout
         iconColor = R.color.white;
         icon = getIcon();
 
-        icon_size = Utils.convertPixelsToDp((int) icon_size, context);
 
-        icon_padding = a.getDimension(R.styleable.DroidiconBadge_db_icon_padding, (int)(icon_size * PADDING_PERCENTAGE));
+
 
 
         float scale = getResources().getDisplayMetrics().density;
