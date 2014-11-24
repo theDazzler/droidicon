@@ -13,7 +13,7 @@ Icons From...
 <br>
 Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 
-* 800+ icons
+* 1600+ icons
 * use icons from [FontAwesome](http://fontawesome.io/), [Iconic](https://useiconic.com/open/), [Entypo] (http://www.entypo.com/), and [Meteocons](http://www.alessioatzeni.com/meteocons/)
 * 25 ready-made social badges using brand colors
 * add strokes, transparency, and color filters to icons
@@ -69,3 +69,5 @@ Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 <div style="float:left">
   <h2><a href="https://github.com/theDazzler/droidicon/wiki/How-to-Use">Installation Guide</a></h2>
 </div>
+
+[MIT License](http://opensource.org/licenses/MIT)
