@@ -7,6 +7,7 @@ import android.util.Log;
 import android.view.View;
 
 import com.thedazzler.droidicon.IconicFontDrawable;
+import com.thedazzler.droidicon.badges.DroidiconBadge;
 
 import android.app.Activity;
 import static android.os.Build.VERSION.SDK_INT;
@@ -28,6 +29,9 @@ public class MainActivity extends Activity
         lone2 = findViewById(R.id.lone2);
         lone3 = findViewById(R.id.lone3);
         lone4 = findViewById(R.id.lone4);
+
+        DroidiconBadge badge1 = (DroidiconBadge) findViewById(R.id.badge1);
+        badge1.setIcon("fa-user");
 
 
         IconicFontDrawable iconicFontDrawable = new IconicFontDrawable(this.getApplicationContext());

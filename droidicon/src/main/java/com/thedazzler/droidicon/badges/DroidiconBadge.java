@@ -161,6 +161,12 @@ public class DroidiconBadge extends FrameLayout
         this.addView(v);
     }
 
+    public void setIcon(String icon)
+    {
+        this.iconicFontDrawable.setIcon(icon);
+        invalidate();
+    }
+
     public IconicFontDrawable getIconicFontDrawable()
     {
         return this.iconicFontDrawable;
