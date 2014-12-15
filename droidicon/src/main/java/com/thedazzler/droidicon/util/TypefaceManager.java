@@ -31,12 +31,13 @@ public class TypefaceManager {
         FONT_AWESOME(R.raw.fontawesome_webfont),
         ICONIC(R.raw.iconic),
         GOOGLE_MATERIAL_DESIGN(R.raw.google_material_design),
-        METEOCON(R.raw.meteocons);
+        METEOCON(R.raw.meteocons),
+        UNICODE(null);
 
-        private final int mTypefaceResourceId;
+        private final Integer mTypefaceResourceId;
         private Typeface mTypeface;
 
-        private IconicTypeface(int typefaceResourceId) {
+        private IconicTypeface(Integer typefaceResourceId) {
             mTypefaceResourceId = typefaceResourceId;
         }
 
@@ -48,6 +49,9 @@ public class TypefaceManager {
          * @return {@link Typeface}
          */
         public Typeface getTypeface(final Context context) {
+            if (mTypefaceResourceId == null) {
+                return Typeface.DEFAULT;
+            }
             if (mTypeface == null) {
                 mTypeface = createTypefaceFromResource(context, mTypefaceResourceId);
             }

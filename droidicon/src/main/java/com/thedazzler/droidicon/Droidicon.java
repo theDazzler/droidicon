@@ -1690,12 +1690,6 @@ public class Droidicon
 
     }
 
-    public static Map<String, Integer> getIconMap()
-    {
-        return iconMap;
-    }
-
-
     public static TypefaceManager.IconicTypeface getIconicTypeface(String icon)
     {
         if(icon.startsWith("fa"))
@@ -1710,10 +1704,17 @@ public class Droidicon
             return TypefaceManager.IconicTypeface.GOOGLE_MATERIAL_DESIGN;
         else if(icon.startsWith("meteo"))
             return TypefaceManager.IconicTypeface.METEOCON;
+        else if(icon.startsWith("unicode"))
+            return TypefaceManager.IconicTypeface.UNICODE;
         else return null;
     }
 
     public static int getIconUtfValue(String icon) {
+        if (icon.startsWith("unicode")) {
+            //The icon name should be like unicode-0x7727
+            String unicodeStr = icon.substring(icon.indexOf("-") + 1);
+            return Integer.decode(unicodeStr);
+        }
         return iconMap.get(icon);
     }
 }

@@ -216,7 +216,7 @@ public class IconicFontDrawable extends Drawable {
 
     private void updateIcon(String icon) {
         mIcon = icon;
-        mIconUtfChars = Character.toChars(Droidicon.getIconMap().get(icon));
+        mIconUtfChars = Character.toChars(Droidicon.getIconUtfValue(icon));
         mIconPaint.setTypeface(Droidicon.getIconicTypeface(icon).getTypeface(mContext));
     }
 
