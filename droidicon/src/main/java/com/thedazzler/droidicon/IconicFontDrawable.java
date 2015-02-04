@@ -19,6 +19,8 @@ import android.content.Context;
 import android.graphics.*;
 import android.graphics.drawable.Drawable;
 import android.util.Log;
+import com.thedazzler.droidicon.typeface.TypefaceHolder;
+import com.thedazzler.droidicon.typeface.TypefaceManager;
 
 /**
  * A custom {@link Drawable} which can display icons from icon fonts.
@@ -216,8 +218,12 @@ public class IconicFontDrawable extends Drawable {
 
     private void updateIcon(String icon) {
         mIcon = icon;
-        mIconUtfChars = Character.toChars(Droidicon.getIconUtfValue(icon));
-        mIconPaint.setTypeface(Droidicon.getIconicTypeface(icon).getTypeface(mContext));
+        TypefaceHolder typefaceHolder =
+                TypefaceManager.getInstance().getTypefaceHolderByIconName(icon);
+        if (typefaceHolder != null) {
+            mIconUtfChars = Character.toChars(typefaceHolder.getIconUtfValue(icon));
+            mIconPaint.setTypeface(typefaceHolder.getTypeface(mContext));
+        }
     }
 
     private void updatePaddingBounds(Rect viewBounds) {
