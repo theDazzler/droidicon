@@ -9,12 +9,18 @@ import android.view.View;
 import com.thedazzler.droidicon.IconicFontDrawable;
 
 import android.app.Activity;
+import com.thedazzler.droidicon.typeface.CustomTypefaceHolder;
+import com.thedazzler.droidicon.typeface.TypefaceManager;
+
+import java.util.HashMap;
+import java.util.Map;
+
 import static android.os.Build.VERSION.SDK_INT;
 import static android.os.Build.VERSION_CODES.JELLY_BEAN;
 
 public class MainActivity extends Activity
 {
-    private View mIconView, mIconView2, lone1, lone2, lone3, lone4;
+    private View mIconView, mIconView2, lone1, lone2, lone3, lone4, custom1, custom2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,6 +34,8 @@ public class MainActivity extends Activity
         lone2 = findViewById(R.id.lone2);
         lone3 = findViewById(R.id.lone3);
         lone4 = findViewById(R.id.lone4);
+        custom1 = findViewById(R.id.custom1);
+        custom2 = findViewById(R.id.custom2);
 
 
         IconicFontDrawable iconicFontDrawable = new IconicFontDrawable(this.getApplicationContext());
@@ -72,6 +80,28 @@ public class MainActivity extends Activity
         lone4Drawable.setContourWidth(5);
         lone4Drawable.drawContour(true);
 
+
+
+        //Custom fonts
+        Map<String, Integer> customMap = new HashMap<String, Integer>();
+        customMap.put("custom-1", 0xe600);
+        customMap.put("custom-2", 0xe601);
+        customMap.put("custom-3", 0xe602);
+        customMap.put("custom-4", 0xe603);
+        customMap.put("custom-5", 0xe604);
+        customMap.put("custom-6", 0xe605);
+        customMap.put("custom-7", 0xe606);
+        CustomTypefaceHolder customTypefaceHolder = new CustomTypefaceHolder("custom", R.raw.custom, customMap);
+        TypefaceManager.getInstance().addNewTypefaceHolder(customTypefaceHolder);
+
+        IconicFontDrawable customDrawable1 = new IconicFontDrawable(this.getApplicationContext());
+        customDrawable1.setIcon("custom-1");
+        customDrawable1.setIconColor(Utils.randomColor());
+
+        IconicFontDrawable customDrawable2 = new IconicFontDrawable(this.getApplicationContext());
+        customDrawable2.setIcon("esocial-dropbox");
+        customDrawable2.setIconColor(Utils.randomColor());
+
         if (SDK_INT < JELLY_BEAN) {
             mIconView.setBackgroundDrawable(iconicFontDrawable);
             mIconView2.setBackgroundDrawable(randomIconicFontDrawable);
@@ -79,6 +109,8 @@ public class MainActivity extends Activity
             lone2.setBackgroundDrawable(lone2Drawable);
             lone3.setBackgroundDrawable(lone3Drawable);
             lone4.setBackgroundDrawable(lone4Drawable);
+            custom1.setBackgroundDrawable(customDrawable1);
+            custom2.setBackgroundDrawable(customDrawable2);
         } else {
             mIconView.setBackground(iconicFontDrawable);
             mIconView2.setBackground(randomIconicFontDrawable);
@@ -86,6 +118,8 @@ public class MainActivity extends Activity
             lone2.setBackground(lone2Drawable);
             lone3.setBackground(lone3Drawable);
             lone4.setBackground(lone4Drawable);
+            custom1.setBackground(customDrawable1);
+            custom2.setBackground(customDrawable2);
         }
 
     }

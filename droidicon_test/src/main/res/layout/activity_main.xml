@@ -810,6 +810,7 @@
                 android:layout_marginBottom="4dp">
 
             <LinearLayout
+                    android:id="@+id/custom_icon_container"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:orientation="horizontal">
@@ -819,44 +820,26 @@
                 <com.thedazzler.droidicon.badges.DroidiconBadge
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        droidicon:db_bg_color="#2ecc71"
-                        droidicon:db_icon_color="#fff"
-                        droidicon:db_icon="fa-bug"
-                        droidicon:db_alpha="126"
-                        android:layout_marginRight="4dp"
-                        />
-
-                <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_bg_color="#2c3e50"
-                        droidicon:db_icon_color="#1abc9c"
-                        droidicon:db_icon="entypo-map"
-                        droidicon:db_alpha="126"
-                        android:layout_marginRight="4dp"
-                        />
-
-                <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_draw_contour="true"
-                        droidicon:db_contour_width="5"
-                        droidicon:db_contour_color="#000"
-                        droidicon:db_bg_color="#e74c3c"
-                        droidicon:db_icon_color="#fff"
-                        droidicon:db_icon="entypo-moon"
-                        droidicon:db_alpha="126"
-                        android:layout_marginRight="4dp"
-                        />
-
-                <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
                         droidicon:db_bg_color="#9b59b6"
                         droidicon:db_icon_color="#fff"
-                        droidicon:db_alpha="126"
-                        droidicon:db_icon="entypo-credit-card"
+                        droidicon:db_icon="unicode-0x2658"
                         />
+
+                <View
+                        android:id="@+id/custom1"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:layout_marginRight="4dp">
+
+                </View>
+
+                <View
+                        android:id="@+id/custom2"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:layout_marginRight="4dp">
+
+                </View>
 
             </LinearLayout>
 

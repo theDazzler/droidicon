@@ -68,6 +68,7 @@ public abstract class TypefaceHolder {
         String outPath = context.getCacheDir() + "/tmp.raw";
 
         try {
+            Log.i(TAG, "available bytes: " + inputStream.available());
             byte[] buffer = new byte[inputStream.available()];
             outputStream = new BufferedOutputStream(new FileOutputStream(outPath));
 
@@ -75,6 +76,7 @@ public abstract class TypefaceHolder {
             while ((l = inputStream.read(buffer)) > 0) {
                 outputStream.write(buffer, 0, l);
             }
+            outputStream.close();
 
             typeface = Typeface.createFromFile(outPath);
 
