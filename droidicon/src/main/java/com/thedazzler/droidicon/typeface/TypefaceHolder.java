@@ -43,7 +43,11 @@ public abstract class TypefaceHolder {
     }
 
     public int getIconUtfValue(String icon) {
-        return iconMap.get(icon);
+        if (iconMap.containsKey(icon)) {
+            return iconMap.get(icon);
+        } else {
+            return 0;
+        }
     }
 
     protected void setIconMap(Map<String, Integer> iconMap) {
