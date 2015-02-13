@@ -99,7 +99,7 @@ public class MainActivity extends Activity
         customDrawable1.setIconColor(Utils.randomColor());
 
         IconicFontDrawable customDrawable2 = new IconicFontDrawable(this.getApplicationContext());
-        customDrawable2.setIcon("esocial-dropbox");
+        customDrawable2.setIcon("custom-4");
         customDrawable2.setIconColor(Utils.randomColor());
 
         if (SDK_INT < JELLY_BEAN) {
