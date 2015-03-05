@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-            xmlns:droidicon="http://schemas.android.com/apk/res-auto"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:padding="4dp" >
+    xmlns:droidicon="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="4dp" >
 
     <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:orientation="vertical">
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
 
         <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Premade social badges"
-                android:gravity="center"
-                android:layout_marginTop="4dp"
-                android:layout_marginBottom="8dp"
-                android:textAppearance="?android:attr/textAppearanceMedium"/>
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Premade social badges"
+            android:gravity="center"
+            android:layout_marginTop="4dp"
+            android:layout_marginBottom="8dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"/>
 
         <HorizontalScrollView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="4dp">
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp">
 
             <LinearLayout
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:orientation="horizontal">
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
 
 
 
                 <com.thedazzler.droidicon.badges.FacebookDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.VimeoDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.SpotifyDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.GooglePlusDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
 
 
@@ -63,40 +63,40 @@
         </HorizontalScrollView>
 
         <HorizontalScrollView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="4dp">
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp">
 
             <LinearLayout
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:orientation="horizontal">
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
 
 
 
                 <com.thedazzler.droidicon.badges.PinterestDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.TumblrDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.LinkedinDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.DribbleDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
 
 
@@ -105,40 +105,40 @@
         </HorizontalScrollView>
 
         <HorizontalScrollView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="4dp">
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp">
 
             <LinearLayout
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:orientation="horizontal">
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
 
 
 
                 <com.thedazzler.droidicon.badges.TwitterDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.StumbleUponDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.LastfmDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.RdioDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
 
 
@@ -147,40 +147,40 @@
         </HorizontalScrollView>
 
         <HorizontalScrollView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="4dp">
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp">
 
             <LinearLayout
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:orientation="horizontal">
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
 
 
 
                 <com.thedazzler.droidicon.badges.SkypeDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.GithubDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.InstagramDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.DropboxDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
 
 
@@ -189,40 +189,40 @@
         </HorizontalScrollView>
 
         <HorizontalScrollView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="4dp">
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp">
 
             <LinearLayout
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:orientation="horizontal">
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
 
 
 
                 <com.thedazzler.droidicon.badges.EvernoteDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.PaypalDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.SoundCloudDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.BehanceDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
 
 
@@ -231,42 +231,42 @@
         </HorizontalScrollView>
 
         <HorizontalScrollView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="4dp">
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp">
 
             <LinearLayout
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:orientation="horizontal">
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
 
 
 
 
 
                 <com.thedazzler.droidicon.badges.FoursquareDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.TrelloDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.YoutubeDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.AndroidDroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
 
 
@@ -275,24 +275,24 @@
         </HorizontalScrollView>
 
         <HorizontalScrollView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="4dp">
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp">
 
             <LinearLayout
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:orientation="horizontal">
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
 
 
 
 
 
                 <com.thedazzler.droidicon.badges.StackOverflowDroidiconbadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dp"
+                    />
 
 
 
@@ -302,38 +302,38 @@
         </HorizontalScrollView>
 
         <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceMedium"
-                android:gravity="center"
-                android:layout_marginTop="16dp"
-                android:layout_marginBottom="8dp"
-                android:text="Add strokes to icons and background"/>
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:gravity="center"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="8dp"
+            android:text="Add strokes to icons and background"/>
 
         <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="horizontal">
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
 
             <View
-                    android:id="@+id/contour_icon"
-                    android:layout_width="150dp"
-                    android:layout_height="150dp"
-                    android:layout_marginRight="4dp">
+                android:id="@+id/contour_icon"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginRight="4dp">
 
             </View>
 
 
 
             <LinearLayout
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:background="@drawable/test">
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/test">
                 <View
-                        android:id="@+id/random_icon"
-                        android:layout_width="150dp"
-                        android:layout_height="150dp"
-                        >
+                    android:id="@+id/random_icon"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    >
 
                 </View>
             </LinearLayout>
@@ -345,171 +345,171 @@
 
 
         <HorizontalScrollView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="4dp">
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp">
 
             <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+
+                <com.thedazzler.droidicon.badges.DroidiconBadge
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:orientation="horizontal">
-
-
-
-                <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_bg_color="@color/facebook"
-                        droidicon:db_icon_color="@color/white"
-                        droidicon:db_draw_contour="true"
-                        droidicon:db_contour_width="5"
-                        droidicon:db_contour_color="@color/carrot"
-                        droidicon:db_icon="fa-user"
-                        android:layout_marginRight="4dp"
-                        />
+                    droidicon:db_bg_color="@color/facebook"
+                    droidicon:db_icon_color="@color/white"
+                    droidicon:db_draw_contour="true"
+                    droidicon:db_contour_width="5"
+                    droidicon:db_contour_color="@color/carrot"
+                    droidicon:db_icon="fa-user"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_bg_color="#2c3e50"
-                        droidicon:db_draw_contour="true"
-                        droidicon:db_contour_width="5"
-                        droidicon:db_contour_color="@color/white"
-                        droidicon:db_icon_color="#1abc9c"
-                        droidicon:db_icon="fa-thumbs-up"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    droidicon:db_bg_color="#2c3e50"
+                    droidicon:db_draw_contour="true"
+                    droidicon:db_contour_width="5"
+                    droidicon:db_contour_color="@color/white"
+                    droidicon:db_icon_color="#1abc9c"
+                    droidicon:db_icon="fa-thumbs-up"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_draw_contour="true"
-                        droidicon:db_contour_width="5"
-                        droidicon:db_contour_color="#000"
-                        droidicon:db_bg_color="#e74c3c"
-                        droidicon:db_icon_color="#fff"
-                        droidicon:db_icon="fa-glass"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    droidicon:db_draw_contour="true"
+                    droidicon:db_contour_width="5"
+                    droidicon:db_contour_color="#000"
+                    droidicon:db_bg_color="#e74c3c"
+                    droidicon:db_icon_color="#fff"
+                    droidicon:db_icon="fa-glass"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_draw_contour="true"
-                        droidicon:db_contour_width="5"
-                        droidicon:db_contour_color="@color/white"
-                        droidicon:db_bg_color="@color/black"
-                        droidicon:db_icon_color="@color/dribble"
-                        droidicon:db_icon="fa-gift"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    droidicon:db_draw_contour="true"
+                    droidicon:db_contour_width="5"
+                    droidicon:db_contour_color="@color/white"
+                    droidicon:db_bg_color="@color/black"
+                    droidicon:db_icon_color="@color/dribble"
+                    droidicon:db_icon="fa-gift"
+                    />
 
             </LinearLayout>
 
         </HorizontalScrollView>
 
         <HorizontalScrollView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content">
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
 
 
             <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+                <com.thedazzler.droidicon.badges.DroidiconBadge
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:orientation="horizontal">
-
-
-                <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_bg_color="#f1c40f"
-                        droidicon:db_icon_color="#fff"
-                        droidicon:db_icon="fa-glass"
-                        droidicon:db_size="25dp"
-                        android:layout_marginRight="4dp"
-                        />
+                    droidicon:db_bg_color="#f1c40f"
+                    droidicon:db_icon_color="#fff"
+                    droidicon:db_icon="fa-glass"
+                    droidicon:db_size="25dp"
+                    android:layout_marginRight="4dp"
+                    />
 
 
 
                 <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_bg_color="#e67e22"
-                        droidicon:db_icon_color="#fff"
-                        droidicon:db_icon="fa-rocket"
-                        droidicon:db_size="40dp"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    droidicon:db_bg_color="#e67e22"
+                    droidicon:db_icon_color="#fff"
+                    droidicon:db_icon="fa-rocket"
+                    droidicon:db_size="40dp"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_bg_color="#3498db"
-                        droidicon:db_icon_color="#fff"
-                        droidicon:db_icon="fa-cutlery"
-                        droidicon:db_size="50dp"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    droidicon:db_bg_color="#3498db"
+                    droidicon:db_icon_color="#fff"
+                    droidicon:db_icon="fa-cutlery"
+                    droidicon:db_size="50dp"
+                    android:layout_marginRight="4dp"
+                    />
 
 
 
 
 
                 <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_bg_color="#28d"
-                        droidicon:db_icon_color="#fff"
-                        droidicon:db_draw_contour="true"
-                        droidicon:db_contour_width="5"
-                        droidicon:db_contour_color="#1abc9c"
-                        droidicon:db_icon="iconic-book-open"
-                        droidicon:db_size="30dp"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    droidicon:db_bg_color="#28d"
+                    droidicon:db_icon_color="#fff"
+                    droidicon:db_draw_contour="true"
+                    droidicon:db_contour_width="5"
+                    droidicon:db_contour_color="#1abc9c"
+                    droidicon:db_icon="iconic-book-open"
+                    droidicon:db_size="30dp"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_bg_color="#000"
-                        droidicon:db_icon_color="#fff"
-                        droidicon:db_draw_contour="true"
-                        droidicon:db_contour_width="5"
-                        droidicon:db_contour_color="#1abc9c"
-                        droidicon:db_icon="fa-mobile"
-                        droidicon:db_size="30dp"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    droidicon:db_bg_color="#000"
+                    droidicon:db_icon_color="#fff"
+                    droidicon:db_draw_contour="true"
+                    droidicon:db_contour_width="5"
+                    droidicon:db_contour_color="#1abc9c"
+                    droidicon:db_icon="fa-mobile"
+                    droidicon:db_size="30dp"
+                    android:layout_marginRight="4dp"
+                    />
 
 
                 <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_bg_color="#4a3"
-                        droidicon:db_icon_color="#fff"
-                        droidicon:db_icon="iconic-wrench"
-                        droidicon:db_size="50dp"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    droidicon:db_bg_color="#4a3"
+                    droidicon:db_icon_color="#fff"
+                    droidicon:db_icon="iconic-wrench"
+                    droidicon:db_size="50dp"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_bg_color="#e67e22"
-                        droidicon:db_icon_color="#b48"
-                        droidicon:db_icon="iconic-clock"
-                        droidicon:db_size="40dp"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    droidicon:db_bg_color="#e67e22"
+                    droidicon:db_icon_color="#b48"
+                    droidicon:db_icon="iconic-clock"
+                    droidicon:db_size="40dp"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_bg_color="#f1c40f"
-                        droidicon:db_icon_color="#f54"
-                        droidicon:db_icon="iconic-eject"
-                        droidicon:db_size="25dp"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    droidicon:db_bg_color="#f1c40f"
+                    droidicon:db_icon_color="#f54"
+                    droidicon:db_icon="iconic-eject"
+                    droidicon:db_size="25dp"
+                    android:layout_marginRight="4dp"
+                    />
 
 
 
@@ -523,132 +523,132 @@
 
         </HorizontalScrollView>
         <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textAppearance="?android:attr/textAppearanceMedium"
-                android:gravity="center"
-                android:layout_marginTop="16dp"
-                android:layout_marginBottom="8dp"
-                android:text="Add transparency and ColorFilters (not shown here)"/>
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:gravity="center"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="8dp"
+            android:text="Add transparency and ColorFilters (not shown here)"/>
 
 
         <HorizontalScrollView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="4dp">
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp">
 
             <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+
+                <com.thedazzler.droidicon.badges.DroidiconBadge
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:orientation="horizontal">
-
-
-
-                <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_bg_color="#2ecc71"
-                        droidicon:db_icon_color="#fff"
-                        droidicon:db_icon="fa-bug"
-                        droidicon:db_alpha="126"
-                        android:layout_marginRight="4dp"
-                        />
+                    droidicon:db_bg_color="#2ecc71"
+                    droidicon:db_icon_color="#fff"
+                    droidicon:db_icon="fa-bug"
+                    droidicon:db_alpha="126"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_bg_color="#2c3e50"
-                        droidicon:db_icon_color="#1abc9c"
-                        droidicon:db_icon="entypo-map"
-                        droidicon:db_alpha="126"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    droidicon:db_bg_color="#2c3e50"
+                    droidicon:db_icon_color="#1abc9c"
+                    droidicon:db_icon="entypo-map"
+                    droidicon:db_alpha="126"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_draw_contour="true"
-                        droidicon:db_contour_width="5"
-                        droidicon:db_contour_color="#000"
-                        droidicon:db_bg_color="#e74c3c"
-                        droidicon:db_icon_color="#fff"
-                        droidicon:db_icon="entypo-moon"
-                        droidicon:db_alpha="126"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    droidicon:db_draw_contour="true"
+                    droidicon:db_contour_width="5"
+                    droidicon:db_contour_color="#000"
+                    droidicon:db_bg_color="#e74c3c"
+                    droidicon:db_icon_color="#fff"
+                    droidicon:db_icon="entypo-moon"
+                    droidicon:db_alpha="126"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_bg_color="#9b59b6"
-                        droidicon:db_icon_color="#fff"
-                        droidicon:db_alpha="126"
-                        droidicon:db_icon="entypo-credit-card"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    droidicon:db_bg_color="#9b59b6"
+                    droidicon:db_icon_color="#fff"
+                    droidicon:db_alpha="126"
+                    droidicon:db_icon="entypo-credit-card"
+                    />
 
             </LinearLayout>
 
         </HorizontalScrollView>
 
         <HorizontalScrollView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content">
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
 
 
             <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+                <com.thedazzler.droidicon.badges.DroidiconBadge
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:orientation="horizontal">
-
-
-                <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_bg_color="#f1c40f"
-                        droidicon:db_icon_color="#fff"
-                        droidicon:db_icon="entypo-rss"
-                        droidicon:db_size="40dp"
-                        droidicon:db_alpha="126"
-                        android:layout_marginRight="4dp"
-                        />
+                    droidicon:db_bg_color="#f1c40f"
+                    droidicon:db_icon_color="#fff"
+                    droidicon:db_icon="entypo-rss"
+                    droidicon:db_size="40dp"
+                    droidicon:db_alpha="126"
+                    android:layout_marginRight="4dp"
+                    />
 
 
 
                 <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_bg_color="#e67e22"
-                        droidicon:db_icon_color="#fff"
-                        droidicon:db_icon="entypo-retweet"
-                        droidicon:db_size="40dp"
-                        droidicon:db_alpha="126"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    droidicon:db_bg_color="#e67e22"
+                    droidicon:db_icon_color="#fff"
+                    droidicon:db_icon="entypo-retweet"
+                    droidicon:db_size="40dp"
+                    droidicon:db_alpha="126"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_bg_color="#3498db"
-                        droidicon:db_icon_color="#fff"
-                        droidicon:db_icon="entypo-shuffle"
-                        droidicon:db_size="40dp"
-                        droidicon:db_alpha="126"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    droidicon:db_bg_color="#3498db"
+                    droidicon:db_icon_color="#fff"
+                    droidicon:db_icon="entypo-shuffle"
+                    droidicon:db_size="40dp"
+                    droidicon:db_alpha="126"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_bg_color="#000"
-                        droidicon:db_icon_color="#fff"
-                        droidicon:db_draw_contour="true"
-                        droidicon:db_contour_width="5"
-                        droidicon:db_contour_color="#1abc9c"
-                        droidicon:db_icon="entypo-trash"
-                        droidicon:db_alpha="126"
-                        droidicon:db_size="40dp"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    droidicon:db_bg_color="#000"
+                    droidicon:db_icon_color="#fff"
+                    droidicon:db_draw_contour="true"
+                    droidicon:db_contour_width="5"
+                    droidicon:db_contour_color="#1abc9c"
+                    droidicon:db_icon="entypo-trash"
+                    droidicon:db_alpha="126"
+                    droidicon:db_size="40dp"
+                    android:layout_marginRight="4dp"
+                    />
 
 
 
@@ -658,87 +658,87 @@
         </HorizontalScrollView>
 
         <HorizontalScrollView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="16dp"
-                android:layout_marginBottom="4dp">
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="4dp">
 
             <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+                <View
+                    android:id="@+id/lone1"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginRight="4dp">
+
+                </View>
+
+                <View
+                    android:id="@+id/lone2"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginRight="4dp">
+
+                </View>
+
+                <View
+                    android:id="@+id/lone3"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginRight="4dp">
+
+                </View>
+
+                <View
+                    android:id="@+id/lone4"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginRight="4dp">
+
+                </View>
+
+
+                <com.thedazzler.droidicon.badges.DroidiconBadge
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:orientation="horizontal">
-
-
-                <View
-                        android:id="@+id/lone1"
-                        android:layout_width="80dp"
-                        android:layout_height="80dp"
-                        android:layout_marginRight="4dp">
-
-                </View>
-
-                <View
-                        android:id="@+id/lone2"
-                        android:layout_width="80dp"
-                        android:layout_height="80dp"
-                        android:layout_marginRight="4dp">
-
-                </View>
-
-                <View
-                        android:id="@+id/lone3"
-                        android:layout_width="80dp"
-                        android:layout_height="80dp"
-                        android:layout_marginRight="4dp">
-
-                </View>
-
-                <View
-                        android:id="@+id/lone4"
-                        android:layout_width="80dp"
-                        android:layout_height="80dp"
-                        android:layout_marginRight="4dp">
-
-                </View>
-
+                    droidicon:db_bg_color="#292f33"
+                    droidicon:db_icon_color="#55ACEE"
+                    droidicon:db_draw_contour="true"
+                    droidicon:db_contour_width="5"
+                    droidicon:db_contour_color="#55ACEE"
+                    droidicon:db_icon="iconic-article"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_bg_color="#292f33"
-                        droidicon:db_icon_color="#55ACEE"
-                        droidicon:db_draw_contour="true"
-                        droidicon:db_contour_width="5"
-                        droidicon:db_contour_color="#55ACEE"
-                        droidicon:db_icon="iconic-article"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    droidicon:db_bg_color="#2c3e50"
+                    droidicon:db_icon_color="#1abc9c"
+                    droidicon:db_icon="esocial-facebook"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_bg_color="#2c3e50"
-                        droidicon:db_icon_color="#1abc9c"
-                        droidicon:db_icon="esocial-facebook"
-                        android:layout_marginRight="4dp"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    droidicon:db_bg_color="#e74c3c"
+                    droidicon:db_icon_color="#fff"
+                    droidicon:db_icon="esocial-spotify"
+                    android:layout_marginRight="4dp"
+                    />
 
                 <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_bg_color="#e74c3c"
-                        droidicon:db_icon_color="#fff"
-                        droidicon:db_icon="esocial-spotify"
-                        android:layout_marginRight="4dp"
-                        />
-
-                <com.thedazzler.droidicon.badges.DroidiconBadge
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        droidicon:db_bg_color="#9b59b6"
-                        droidicon:db_icon_color="#fff"
-                        droidicon:db_icon="meteo-snowy4"
-                        />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    droidicon:db_bg_color="#9b59b6"
+                    droidicon:db_icon_color="#fff"
+                    droidicon:db_icon="meteo-snowy4"
+                    />
 
             </LinearLayout>
 
@@ -805,9 +805,9 @@
 
 
         <HorizontalScrollView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="4dp">
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp">
 
             <LinearLayout
                     android:id="@+id/custom_icon_container"
