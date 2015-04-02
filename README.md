@@ -1,16 +1,17 @@
 droidicon - Over 1600 icons for Android!
 =========
 
-* Updated FontAwesome to 4.3
-* Unicode Icons
-* Your own custom icons
-
 <b>Icons From...</b>
 * [Google Material Design](http://google.github.io/material-design-icons/)
 * [FontAwesome](http://fontawesome.io/icons/)
 * [Iconic](https://useiconic.com/open/)
 * [Entypo](http://www.entypo.com/) 
 * [Meteocons](http://www.alessioatzeni.com/meteocons/)
+* Unicode Icons
+* Your own custom icons
+ 
+<h2>New</h2>
+* Updated FontAwesome to 4.3
 * Unicode Icons
 * Your own custom icons
  
