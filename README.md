@@ -3,7 +3,7 @@ droidicon - Over 1600 icons for Android!
 
 Icons From...
 * [Google Material Design](http://google.github.io/material-design-icons/)
-* [FontAwesome](http://fontawesome.io/icons/) NEW - updated to 4.3
+* [FontAwesome](http://fontawesome.io/icons/) <b>NEW</b> - updated to 4.3
 * [Iconic](https://useiconic.com/open/)
 * [Entypo](http://www.entypo.com/) 
 * [Meteocons](http://www.alessioatzeni.com/meteocons/)
