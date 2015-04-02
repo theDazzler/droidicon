@@ -1,8 +1,8 @@
 droidicon - Over 1600 icons for Android!
 =========
-<h3>750+ Google Material Design Icons</h3>
+
 Icons From...
-* [Google Material Design](http://google.github.io/material-design-icons/)
+* [Google Material Design](http://google.github.io/material-design-icons/) 750+
 * [FontAwesome](http://fontawesome.io/icons/) 4.3
 * [Iconic](https://useiconic.com/open/)
 * [Entypo](http://www.entypo.com/) 
