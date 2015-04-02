@@ -1,14 +1,14 @@
 droidicon - Over 1600 icons for Android!
 =========
-<h3>NEW - 750+ Google Material Design Icons</h3>
+<h3>750+ Google Material Design Icons</h3>
 Icons From...
 * [Google Material Design](http://google.github.io/material-design-icons/)
-* [FontAwesome](http://fontawesome.io/icons/)
+* [FontAwesome](http://fontawesome.io/icons/) 4.3
 * [Iconic](https://useiconic.com/open/)
 * [Entypo](http://www.entypo.com/) 
 * [Meteocons](http://www.alessioatzeni.com/meteocons/)
-* Unicode Icons
-* Any other custom icons from you
+* <b>NEW</b> - Unicode Icons
+* NEW - Your own custom icons
  
 <strong>droidicon</strong> provides over 1600 customizable icons, 25 ready-made social badges and more! droidicon makes it super easy to add icons and badges to your app. All of the social badges are already styled. Just add them to your app! Or you can customize the icons however you want.
 <br>
