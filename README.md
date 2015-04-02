@@ -26,7 +26,7 @@ Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 * add strokes, transparency, and color filters to icons
 * create badges and icons of any size or color, totally customizable
 
-<h2>Ready-made Badges</h2>
+<h2>Ready-made Badges for Popular Social Networks using Company Colors</h2>
 <div style="float:left; clear:both">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen1_framed.jpg" width="500" align="center" >
 </div>
