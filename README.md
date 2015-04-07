@@ -1,14 +1,19 @@
 droidicon - Over 1600 icons for Android!
 =========
-<h3>NEW - 750+ Google Material Design Icons</h3>
-Icons From...
+
+<b>Icons From...</b>
 * [Google Material Design](http://google.github.io/material-design-icons/)
 * [FontAwesome](http://fontawesome.io/icons/)
 * [Iconic](https://useiconic.com/open/)
 * [Entypo](http://www.entypo.com/) 
 * [Meteocons](http://www.alessioatzeni.com/meteocons/)
 * Unicode Icons
-* Any other custom icons from you
+* Your own custom icons
+ 
+<h2>New</h2>
+* Updated FontAwesome to 4.3
+* Unicode Icons
+* Your own custom icons
  
 <strong>droidicon</strong> provides over 1600 customizable icons, 25 ready-made social badges and more! droidicon makes it super easy to add icons and badges to your app. All of the social badges are already styled. Just add them to your app! Or you can customize the icons however you want.
 <br>
@@ -16,12 +21,12 @@ Icons From...
 Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 
 * 1600+ icons
-* use icons from [FontAwesome](http://fontawesome.io/), [Iconic](https://useiconic.com/open/), [Entypo] (http://www.entypo.com/), and [Meteocons](http://www.alessioatzeni.com/meteocons/)
+* use icons from [Google Material Design](http://google.github.io/material-design-icons/), [FontAwesome](http://fontawesome.io/), [Iconic](https://useiconic.com/open/), [Entypo] (http://www.entypo.com/), [Meteocons](http://www.alessioatzeni.com/meteocons/), and your own custom icons.
 * 25 ready-made social badges using brand colors
 * add strokes, transparency, and color filters to icons
 * create badges and icons of any size or color, totally customizable
 
-<h2>Ready-made Badges</h2>
+<h2>Ready-made Badges for Popular Social Networks using Company Brand Colors</h2>
 <div style="float:left; clear:both">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen1_framed.jpg" width="500" align="center" >
 </div>
