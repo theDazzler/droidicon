@@ -9,6 +9,9 @@ import android.view.View;
 import com.thedazzler.droidicon.IconicFontDrawable;
 
 import android.app.Activity;
+
+import com.thedazzler.droidicon.badges.DribbleDroidiconBadge;
+import com.thedazzler.droidicon.badges.DroidiconBadge;
 import com.thedazzler.droidicon.typeface.CustomTypefaceHolder;
 import com.thedazzler.droidicon.typeface.TypefaceManager;
 
@@ -36,6 +39,12 @@ public class MainActivity extends Activity
         lone4 = findViewById(R.id.lone4);
         custom1 = findViewById(R.id.custom1);
         custom2 = findViewById(R.id.custom2);
+
+        DroidiconBadge badger = (DroidiconBadge) findViewById(R.id.dribble);
+        badger.setBackgroundColor(getResources().getColor(R.color.spotify));
+        badger.setContourColor(getResources().getColor(R.color.twitter_blue));
+
+
 
 
         IconicFontDrawable iconicFontDrawable = new IconicFontDrawable(this.getApplicationContext());

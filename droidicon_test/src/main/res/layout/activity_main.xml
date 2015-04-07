@@ -381,6 +381,7 @@
                     />
 
                 <com.thedazzler.droidicon.badges.DroidiconBadge
+                    android:id="@+id/dribble"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     droidicon:db_draw_contour="true"

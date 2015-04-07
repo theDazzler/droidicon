@@ -11,6 +11,7 @@ import com.thedazzler.droidicon.util.Utils;
 
 import android.content.Context;
 import android.content.res.TypedArray;
+import android.graphics.Color;
 import android.graphics.drawable.GradientDrawable;
 import android.util.AttributeSet;
 import android.util.Log;
@@ -159,6 +160,27 @@ public class DroidiconBadge extends FrameLayout
 
 
         this.addView(v);
+    }
+
+    public void setBackgroundColor(int color)
+    {
+        GradientDrawable backgroundShape = (GradientDrawable)container.getBackground();
+        backgroundShape.setColor(color);
+
+        invalidate();
+
+    }
+
+    public void setContourColor(int color)
+    {
+        iconicFontDrawable.setContourColor(color);
+        invalidate();
+    }
+
+    public void setIconColor(int color)
+    {
+        iconicFontDrawable.setIconColor(color);
+        invalidate();
     }
 
     public void setIcon(String icon)
