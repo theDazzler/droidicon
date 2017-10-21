@@ -27,53 +27,53 @@ Based on [IconicDroid](https://github.com/atermenji/IconicDroid)
 * create badges and icons of any size or color, totally customizable
 
 <h2>Ready-made Badges for Popular Social Networks using Company Brand Colors</h2>
-<div style="float:left; clear:both">
+<div style="float:left; clear:both;">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen1_framed.jpg" width="500" align="center" >
 </div>
 
 
 
 <h2>Icon Examples</h2>
-<div style="float:left; clear:both">
-<div style="float: left">
+<div style="float:left; clear:both;">
+<div style="float:left;">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen4_framed.jpg" align="left" width="33%" >
 </div>
-<div style="float: left">
+<div style="float:left;">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen5_framed.jpg" align="left" width="33%" >
 </div>
 
-<div style="float: left">
+<div style="float:left;">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen6_framed.jpg" align="left" width="33%" >
 </div>
 </div>
 
-<div style="float:left; clear:both">
-<div style="float: left">
+<div style="float:left; clear:both;">
+<div style="float:left;">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen7_framed.jpg" align="left" width="33%" >
 </div>
 
-<div style="float: left">
+<div style="float:left;">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/icons_plain1.jpg" align="left" width="33%" >
 </div>
 
-<div style="float: left">
+<div style="float:left;">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/icons_plain2.jpg" align="left" width="33%" >
 </div>
 </div>
 
-<div style="float:left; clear:both">
+<div style="float:left; clear:both;">
 <h2>Add strokes, transparency, and color filters to your icons</h2>
 </div>
-<div style="float:left; clear:both">
-<div style="float:left">
+<div style="float:left; clear:both;">
+<div style="float:left;">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen2_framed.jpg" align="left" width="50%" >
 </div>
-<div style="float:left">
+<div style="float:left;">
 <img src="https://github.com/theDazzler/droidicon/blob/master/screenshots/screen3_framed.jpg" align="left" width="50%" >
 </div>
 </div>
 
-<div style="float:left clear:both">
+<div style="float:left; clear:both;">
   <h2><a href="https://github.com/theDazzler/droidicon/wiki/How-to-Use">Installation Guide</a></h2>
 </div>
 
