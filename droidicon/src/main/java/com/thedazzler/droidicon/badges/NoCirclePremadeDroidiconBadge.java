@@ -92,7 +92,7 @@ public abstract class NoCirclePremadeDroidiconBadge extends FrameLayout
             icon_padding = a.getDimension(R.styleable.DroidiconBadge_db_icon_padding, (int)(icon_size * PADDING_PERCENTAGE));
 
 
-            //icon_padding = Utils.convertPixelsToDp((int)icon_padding, context);
+            icon_padding = Utils.convertPixelsToDp((int)icon_padding, context);
 
 
 
